@@ -1,0 +1,7 @@
+langchain
+langchainhub
+streamlit
+bs4
+chromadb
+unstructured
+chainlit
